@@ -4,7 +4,7 @@ const app = document.getElementById("app");
 
 const typewriter = new Typewriter(app, {
   loop: false,
-  delay: 75,
+  delay: 55,
   autoStart: true,
   cursor: "█",
   strings: []

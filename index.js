@@ -11,14 +11,13 @@ const typewriter = new Typewriter(app, {
 });
 
 typewriter
-.typeString('We are Cybersecurity')
+.typeString('We are Cybersecurity + AI')
 .pauseFor(500)
-.deleteChars(13)
+.deleteChars(18)
   .typeString(
     "<strong>CybersecuritAI</strong>: a game changer approach in the cybersecurity field."
   )
   .pauseFor(1000)
-   .deleteAll()
   .typeString("<br /><br />")
   .typeString(
     "We use last <strong>Machine Learning and Deep Learning</strong> techniques to protect your <strong>web/app/API.</strong>"
@@ -33,4 +32,4 @@ typewriter
   .typeString("<br /><br />")
   //.deleteAll(1)
   .typeString("More info: coming soon! <br />")
-  //..typeString('<a href="https://www.tiffanyrwhite.com">Portfolio</a> <br />');
+

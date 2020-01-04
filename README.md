@@ -1,2 +1,2 @@
 # cybersecuritAI
-First landing opage for the startup CYBERSECURITAI
+First landing page for the startup CYBERSECURITAI
